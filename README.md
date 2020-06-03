@@ -20,7 +20,7 @@ Mine is 'C:\Users\kansh\Desktop\FYP'
 
 2. Loading of folder from CWD (Changes to make)
 
-Windows uses "\" & Linux uses "//" for directory path
+Windows uses "\\" & Linux uses "//" for directory path
 
 3. Ensure all directory path for train_generators are specified as well
 
